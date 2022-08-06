@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.blue-bg, footer {
+    background-color: #1f2937;
+    color: #f1f1f1;
+}
+
+.quote-container {
+    background-color: #e5e7eb;
+}
+
+.call-to-action {
+    background-color: #3882f6;
+    color: #f1f1f1;
+}
+
+
+
+
+
+
+
+
+
